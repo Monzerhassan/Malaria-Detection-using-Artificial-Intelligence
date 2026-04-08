@@ -74,3 +74,11 @@ The model is trained on microscopic images of blood cells:
 
 ## 📄 Disclaimer
 This project is for educational and research purposes only and should not be used as a substitute for professional medical diagnosis.
+
+---
+
+## 👤 Author
+Monzer Hassan  
+IT Specialist & AI Enthusiast
+
+Please contact me to work together on developing this project.
